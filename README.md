@@ -21,7 +21,7 @@ ___
 
 ### Why does this project exist?
 
-My name is Markus Eicher and I am currently in training to become a Peer Worker in the Healthcare sector. I want to get accredited to be allowed to work with people going through a health crisis or another personal problem. During my training with myPeer.ch I found out, that having enough practice in leading coaching sessions is crucial to become proficient in the field. This is why I have created this project. Being able to practice at any time, without having to worry about finding a partner to do so, will be a big benefit for all learners in this field.
+My name is Markus Eicher and I am currently in training to become a Peer Worker in the Healthcare sector. I want to get accredited to be allowed to work with people going through a health crisis or another personal problem. During my training with <a href="https://www.mypeer.ch/" onclick="window.open(this.href,'_blank');return false;">myPeer.ch</a>, I found out, that having enough practice in leading coaching sessions is crucial to become proficient in the field. This is why I have created this project. Being able to practice at any time, without having to worry about finding a partner to do so, will be a big benefit for all learners in this field.
 
 While it is not an easy goal to achieve, I still won't miss to try to do it. I am commited to do my part. Be it as contributor or as maintainer, enabling others that are more proficient in coding than myself.
 
