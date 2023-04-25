@@ -14,5 +14,5 @@ ___
 
 We are happy, if you want to contribute! 🤝
 
-Please check out CONTRIBUTING.md for more details. You find some first links to relevant resources in the brainstorming.md file.
+Please check out [CONTRIBUTING](./CONTRIBUTING.md) for more details. You find some first links to relevant resources in the [brainstorming](./brainstorming.md) file.
 ___
