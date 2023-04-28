@@ -5,3 +5,6 @@ __pycache__/
 
 # Virtual environment
 venv/
+
+# API Key .env
+.env
