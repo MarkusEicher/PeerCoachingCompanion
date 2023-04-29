@@ -9,3 +9,7 @@ ___
 | **Project Baize:** An open-source chat model trained with data from the healtcare domain. <br><a href="https://huggingface.co/project-baize/baize-healthcare-lora-7B" onclick="window.open(this.href,'_blank');return false;">Project Baize</a> |
 | **Duolingo Max:** Duolingo Max, a learning experience powered by GPT-4. <br><a href="https://blog.duolingo.com/duolingo-max/" onclick="window.open(this.href,'_blank');return false;">Duolingo Max</a> |
 | **Unity V 1.4:** Unity asset to demonstrate OpenAI (Whisper API and GPT) + ElevenLabs API's in-game to create the ability to have dynamic voice conversations with characters. <br><a href="https://youtu.be/vhJKoUJBQ6o" onclick="window.open(this.href,'_blank');return false;">Unity V1.4 Demo - YouTube</a> |
+
+| Learning Resources, Technical Documentation, Scientific Papers|
+| -------- |
+| **DeepLearning.AI** Provides high quality courses on coursera and great content and free resources on their website.<br><br>A must read guide for everyone new to Natural Language Processing and Language Models.<br><a href="https://www.deeplearning.ai/resources/natural-language-processing/" onclick="window.open(this.href,'_blank');return false;">A complete guide to Natural Language Processing</a>
