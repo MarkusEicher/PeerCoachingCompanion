@@ -12,4 +12,4 @@ ___
 
 | Learning Resources, Technical Documentation, Scientific Papers|
 | -------- |
-| **DeepLearning.AI** Provides high quality courses on coursera and great content and free resources on their website.<br><br>A must read guide for everyone new to Natural Language Processing and Language Models.<br><a href="https://www.deeplearning.ai/resources/natural-language-processing/" onclick="window.open(this.href,'_blank');return false;">A complete guide to Natural Language Processing</a>
+| **DeepLearning.AI:** Provides high quality courses on coursera and great content and free resources on their website.<br><br>A must read guide for everyone new to Natural Language Processing and Language Models.<br><a href="https://www.deeplearning.ai/resources/natural-language-processing/" onclick="window.open(this.href,'_blank');return false;">A complete guide to Natural Language Processing</a><br><br>Very useful introduction to prompting for ChatGPT with Python and the OpenAI API.<br><a href="https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/" onclick="window.open(this.href,'_blank');return false;">ChatGPT Prompt Engineering for Developers</a>
